@@ -7,7 +7,7 @@ get things running as quickly as possible.
 
 **Disclaimer:** this template is solely for personal use. Needless to say,
 there are more fully-featured (and generally better) Python project
-templates out there.
+templates out there, _but this one is mine_.
 
 ## Inspiration
 
