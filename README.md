@@ -5,7 +5,7 @@ bootstrapping. It provides a basic Poetry project with a run script, a
 Dockerfile, and Visual Studio Code debugging pre-configured so you can
 get things running as quickly as possible.
 
-Disclaimer: this template is solely for personal use. Needless to say,
+**Disclaimer:** this template is solely for personal use. Needless to say,
 there are more fully-featured (and generally better) Python project
 templates out there.
 
