@@ -1,7 +1,7 @@
 # Ciaran's Python Project Template
 
-This is a project template for general-purpose python project
-bootstrapping. It provides a basic poetry project with a run script, a
+This is a project template for general-purpose Python project
+bootstrapping. It provides a basic Poetry project with a run script, a
 Dockerfile, and Visual Studio Code debugging pre-configured so you can
 get things running as quickly as possible.
 
